@@ -12,7 +12,7 @@ AAbu_project manager: This is the graduation project from university is a mobile
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://www.figma.com/file/RXWCCOeLfvYEEo9ICA6mug/Untitled?type=design&node-id=103-2&mode=design&t=SCVUbmLvpL2HW4t1-0" alt="bash" width="65" height="65"/>
+
 
 
 
